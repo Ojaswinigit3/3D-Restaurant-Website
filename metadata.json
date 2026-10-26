@@ -1,0 +1,6 @@
+{
+  "name": "Villa Aurelia",
+  "description": "A luxury classic Mediterranean resort experience featuring a continuous scroll-driven 3D architectural journey from sunrise over the sea to private suite reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
